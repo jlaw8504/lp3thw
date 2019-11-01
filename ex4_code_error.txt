@@ -1,0 +1,1 @@
+In line 7, the variable name is carpool_capacity but in line 8 you used car_pool_capacity variable which was not defined.
