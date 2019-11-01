@@ -1,0 +1,7 @@
+print("There are 2 cars.")
+print("Each car can comfortably seat 4 people")
+print("Elaine, Patrick, Sarah, Sergio, Josh, and Collen want to go to the movies")
+print("How many people want go go the movies?", 6)
+print("Sergio cannot come")
+print("Now how many people want to go to the movies?", 6 - 1)
+print("How many cars do we need?", 5/4)
