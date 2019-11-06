@@ -1,5 +1,0 @@
-The four places where a string is put inside a string:
-line 6 : {binary} 
-line 6 : {do_not}
-line 11 : {x}
-line 12 : {y}
