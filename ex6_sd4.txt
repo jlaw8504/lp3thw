@@ -1,0 +1,2 @@
+The + operator in this instance joins the two strings together to make a
+single string.
