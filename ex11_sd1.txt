@@ -1,0 +1,6 @@
+According to http://docs.python.org/3.7/library/functions.html#input, the
+input funciton reads a line from input, converts it to a string (stripping a
+trailing newline), and returns that. When EOF is read, EOFError is raised.
+
+So, it reads in the text the user types and converts it to a string variable
+after stripping off the newline character.
