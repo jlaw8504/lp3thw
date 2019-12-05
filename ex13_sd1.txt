@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "ex13.py", line 3, in <module>
+    script, first, second, third = argv
+ValueError: not enough values to unpack (expected 4, got 3)
+
+This error was given since 4 values were expected to be parsed,
+but only 3 were given. Specifically that is script, which was
+ex13.py, first, second, and third were expected but I only
+provided script, first, and second, triggering a ValueError.
