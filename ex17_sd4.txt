@@ -1,0 +1,4 @@
+The close method tells the operating system that python
+is finished with the file and other programs can now
+access the file. However, python automatically
+closes the file when the script ends.
